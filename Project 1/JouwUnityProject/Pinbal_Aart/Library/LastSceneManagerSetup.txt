@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Pinball_Aart.unity
-  isLoaded: 1
-  isActive: 1
